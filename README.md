@@ -1,2 +1,1 @@
-my first readme
-#isreal lawal
+git pull origin
